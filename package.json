@@ -15,6 +15,7 @@
     "pug": "^3.0.2"
   },
   "description": "",
+  "engines": { "node": "16.x.y" },
   "main": "app.js",
   "devDependencies": {},
   "repository": {
